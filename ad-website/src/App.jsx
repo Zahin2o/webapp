@@ -64,7 +64,7 @@ function App() {
       <header className="navbar">
         <a href="#home" className="logo">
           <span className="logo-icon">🏆</span>
-          SPORTS<span className="logo-highlight">Zahin.com</span>
+          SPORTS<span className="logo-highlight">Zahin faisal.com</span>
         </a>
 
         <nav className="nav-links">
